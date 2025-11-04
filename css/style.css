@@ -177,3 +177,24 @@ body { font-family: var(--primary-font), sans-serif; font-size: 16px;}
     margin-bottom: 15px;
 }
 /* e: blog */
+
+#discover .section__columns {
+    align-items: center;
+}
+
+#discover .section__column {
+    width: 50%;
+    text-align: left;
+}
+#discover .section__column--title {
+    font-size: 3.375em;
+}
+
+#discover .section__subtitle {
+    font-size: 1.25em;
+    font-family: var(--primary-font), sans-serif;
+}
+
+#discover img {
+    float: right;
+}
